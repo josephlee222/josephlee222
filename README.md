@@ -10,7 +10,7 @@
 - 👨‍💻 My Portfoilo! [https://cat2.link](https://cat2.link)
 - 📫 E-mail me at **facebooklee52@gmail.com**
 - 💬 Ask me about **PHP, Javascript and HTML**
-- 🚆 Fun fact **I like Japanese trains!**
+- 🚆 Fun fact: **I like Japanese trains!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
