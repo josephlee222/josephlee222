@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Joseph Lee</h1>
 <h3 align="center">App & Web Developer | 1st Year NYP Information Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josephlee222&label=Profile%20views&color=0e75b6&style=flat" alt="josephlee222" /> </p>
-
 - 🔭 I’m currently working on [InventoryManager (PHP + React)](https://github.com/josephlee222/InventoryManagerUI)
 - 🕓 Recent project [NerfGunShop (Swift)](https://github.com/josephlee222/NerfGunShop)
 - 📱 App Inventor extensions [quick-shortcuts](https://github.com/josephlee222/quick-shortcuts)
