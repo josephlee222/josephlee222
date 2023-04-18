@@ -21,4 +21,4 @@
 **📊 Stats**  
   
     
-![Josephlee222's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephlee222&show_icons=true&theme=transparent&text_color=ffffff&border_radius=3&border_color=808080)
+![Josephlee222's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephlee222&show_icons=true&theme=transparent&text_color=808080&border_radius=3&border_color=808080)
