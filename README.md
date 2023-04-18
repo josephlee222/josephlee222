@@ -4,6 +4,7 @@
 ### ⚒️ Skills
 - Web Development
   - HTML/CSS/JS
+  - PHP
   - Python Flask
   - Node.js Express
   - React.js
