@@ -1,5 +1,5 @@
 # Joseph Lee
-`NYP Information Technology Year 2`
+`NYP Information Technology Year 3`
 
 ### ⚒️ Skills
 - Web Development
@@ -8,7 +8,10 @@
   - Python Flask
   - Node.js Express
   - React.js
-- Mobile Development (Swift/Android)
+- AI Development
+  - Langchain + Chroma (RAG)
+  - IBM Watsonx
+- Mobile Development (Swift/Android/App Inventor)
 - Database Management (SQL)
 - App Inventor Extensions (Java)
 - Git + Github
